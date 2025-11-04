@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Whispers of Dawn II | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+As per usual, the more variety we have, the more selection we can do. Here is
+another version of the Celtic new age genre.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #celticpop #uplifting #irish #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/02_Whispers-of-Dawn-II.mp3
+  Size: 11083776        Blocks: 21648      IO Block: 4096   regular file
+Access: 2025-11-04 10:51:29.045223370 +0800
+Modify: 2025-11-04 10:41:52.730608671 +0800
+Change: 2025-11-04 10:41:52.730608671 +0800
+ Birth: 2025-07-31 06:37:52.385311331 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-07-31
+On YouTube since : 2025-09-14
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=xVe2APg9FrM)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Whispers of Dawn II
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-whispers-of-dawn-ii
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
